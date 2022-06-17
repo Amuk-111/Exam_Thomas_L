@@ -1,0 +1,4 @@
+﻿  Fonction.cpp
+C:\Users\Thomas\Desktop\C_class\Exam_Thomas_L\Exam_Thomas_L\Struct.h(7,2): warning C4091: 'typedef ': ignored on left of 'Piece' when no variable is declared
+C:\Users\Thomas\Desktop\C_class\Exam_Thomas_L\Exam_Thomas_L\Fonction.cpp(7,7): warning C4101: 'ch': unreferenced local variable
+  Exam_Thomas_L.vcxproj -> C:\Users\Thomas\Desktop\C_class\Exam_Thomas_L\x64\Debug\Exam_Thomas_L.exe
